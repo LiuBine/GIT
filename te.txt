@@ -1,6 +1,10 @@
 测试
 xiuga
 cdi
+<<<<<<< HEAD
 35
 liu
 3
+=======
+2
+>>>>>>> master
